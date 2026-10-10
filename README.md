@@ -2,10 +2,6 @@
 
 A gesture-controlled piano that uses computer vision and a Raspberry Pi Pico 2W to physically press real piano keys using servo motors.
 
-## Demo
-*Add your demo video link here*
-
----
 
 ## How It Works
 
